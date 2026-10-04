@@ -1,0 +1,2 @@
+chmod +x run_poc.sh
+./run_poc.sh
